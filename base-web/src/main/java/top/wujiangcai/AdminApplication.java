@@ -1,4 +1,4 @@
-package top.wujiangcai.web;
+package top.wujiangcai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
